@@ -8,4 +8,4 @@ The following spreadsheets/information sources have been used as a basis for gen
 ## [Pyro's Final  Shape Raid Weapon Sheet](https://docs.google.com/spreadsheets/d/1eJAcS7WSYtUAdI9RjDJ8MyPI6hi7hMSVUHg-obmWacY/edit#gid=285422606)
 
 ## [Aegis's Destiny 2: Endgame Analysis](https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit#gid=1767006917)
-A resource available from [Aegis's public Google Drive](https://drive.google.com/drive/folders/1AL3GM6rSSrm4LtSZeayxpSUsvSJdsiU3).
+A resource available from [Aegis's public Google Drive](https://drive.google.com/drive/folders/1AL3GM6rSSrm4LtSZeayxpSUsvSJdsiU3). Note that only S and A weapons are listed.
