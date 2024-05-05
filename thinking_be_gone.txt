@@ -1,5 +1,5 @@
-title:Combined Sheet
-description:https://docs.google.com/spreadsheets/d/1eJAcS7WSYtUAdI9RjDJ8MyPI6hi7hMSVUHg-obmWacY/edit#gid=285422606 and https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit#gid=1595979957
+title:Thinking Be Gone
+description:https://github.com/Tompnyx/DIMWishList/edit/main/thinking_be_gone.txt
 
 // Dragon's Breath (pyro-recommended)
 //notes: tags:pyro-recommended
