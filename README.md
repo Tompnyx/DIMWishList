@@ -1,7 +1,7 @@
 # DIMWishList
 Personal wish list of destiny weapons and perks I'm looking for. Used with the [DIM (Destiny Item Manager)](https://app.destinyitemmanager.com/), found on GitHub [here](https://github.com/DestinyItemManager).
 
-To use, copy the GitHub url of the thinking_be_gone.txt file into DIM's 'Add another wish list' section, and click the '+Add Wish List' button.
+To use, copy the GitHub url of the raw (thinking_be_gone.txt)[https://raw.githubusercontent.com/Tompnyx/DIMWishList/main/thinking_be_gone.txt] file into DIM's 'Add another wish list' section, and click the '+Add Wish List' button.
 
 The following spreadsheets/information sources have been used as a basis for generating this combined sheet:
 
